@@ -1,0 +1,2001 @@
+{
+  "data": {
+    "myweeklywins_categories": [
+      {
+        "id": 1,
+        "name": "Food",
+        "red": 255,
+        "blue": 0,
+        "green": 0,
+        "sub_categories": [
+          {
+            "name": "Dairy",
+            "id": 37,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Yogurt",
+                "id": 54,
+                "sub_category_id": 37,
+                "daily_goal": null,
+                "daily_goal_text": "1 cup",
+                "description_text": "Yogurt is a great way to get calcium, protein and some good bacteria that is found in some fermented food.  Some studies have shown that regular intake of yogurt can help reduce inflammation and might even prevent diabetes. Stick to unsweetened yogurt as sweetened yogurt is often full of sugar. If you are trying to lose weight or eat less saturated fat, then stick to low-fat or non-fat yogurt.",
+                "icon": "yogurt_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.hsph.harvard.edu/nutritionsource/food-features/yogurt/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Fruits",
+            "id": 34,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Berries",
+                "id": 45,
+                "sub_category_id": 34,
+                "daily_goal": null,
+                "daily_goal_text": "1 cup",
+                "description_text": "Berries are full of fiber and nutrients and also rich in antioxidants. Antioxidants may help protect our cells from damage over time. Toss some in a smoothie, on yogurt, or on a salad or just enjoy them on their own.",
+                "icon": "Blueberry_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "7 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website/post/super-smoothie",
+                "item_examples": [
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Blueberries",
+                    "id": 51,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Raspberries",
+                    "id": 53,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Strawberries",
+                    "id": 52,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Smoothie Recipe",
+                    "url": "https://www.myweeklywins.com/post/super-smoothie"
+                  }
+                ]
+              },
+              {
+                "name": "Fruits",
+                "id": 46,
+                "sub_category_id": 34,
+                "daily_goal": null,
+                "daily_goal_text": "1 cup or 1 medium sized fruit",
+                "description_text": "Just like vegetables, fruits are full of fiber and lots of vitamins.  In addition to berries, try and eat a couple servings of other fruits each day.  Try and avoid fruit juices as they are high in sugar and you will miss out on the fiber. Canned fruit can contain syrup so be careful of added sugars as well.",
+                "icon": "apple_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "7 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Apples",
+                    "id": 43,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Bananas",
+                    "id": 45,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Grapes",
+                    "id": 48,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Kiwis",
+                    "id": 46,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(3/4 cup)",
+                    "name": "Mangos",
+                    "id": 49,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Melons",
+                    "id": 47,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Oranges",
+                    "id": 44,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Pears",
+                    "id": 42,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Pineapples",
+                    "id": 50,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Why apples are awesome",
+                    "url": "https://www.hsph.harvard.edu/nutritionsource/food-features/apples/"
+                  },
+                  {
+                    "title": "More about Fruits",
+                    "url": "https://www.medicalnewstoday.com/articles/324431#apples"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Proteins",
+            "id": 35,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Beans / Legumes",
+                "id": 48,
+                "sub_category_id": 35,
+                "daily_goal": 0,
+                "daily_goal_text": "1/2 cup (cooked)",
+                "description_text": "Looking for a food full of fiber, protein and nutrition?  Look no further because beans and legumes have it all.  They are low in fat, have no cholesterol, contain tons of nutrients and are cheap as well.  If you are trying to eat more plants, then beans and lentils are an essential addition to your diet.",
+                "icon": "beans_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "7 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Black",
+                    "id": 54,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Cannelli",
+                    "id": 56,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Garbanzo",
+                    "id": 58,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Hummus",
+                    "id": 61,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Lentils",
+                    "id": 60,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Red",
+                    "id": 55,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Soy",
+                    "id": 59,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Tofu",
+                    "id": 57,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Chickpea Salad",
+                    "url": "https://cookieandkate.com/best-chickpea-salad-recipe/"
+                  },
+                  {
+                    "title": "Black Bean Soup",
+                    "url": "https://cookieandkate.com/spicy-vegan-black-bean-soup/"
+                  },
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/the-benefits-of-beans-and-legumes"
+                  }
+                ]
+              },
+              {
+                "name": "Eggs",
+                "id": 51,
+                "sub_category_id": 35,
+                "daily_goal": null,
+                "daily_goal_text": "1 egg",
+                "description_text": "Eggs are a good source of many nutrients as well as protein. Eggs can be part of a healthy diet if eaten with other healthy foods. Try eggs on a salad or a sandwich with whole grain bread. Those at risk for heart disease or diabetes should talk to their doctor about limiting their egg intake.",
+                "icon": "eggs_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.hsph.harvard.edu/nutritionsource/food-features/eggs/"
+                  }
+                ]
+              },
+              {
+                "name": "Fish",
+                "id": 47,
+                "sub_category_id": 35,
+                "daily_goal": null,
+                "daily_goal_text": "3-4 oz or about the size of your palm",
+                "description_text": "There is pretty solid science that shows that eating fish is good for your health and can help improve heart health.  The American Heart Association recommends eating 2 servings per week of certain types of fatty fish that contain high amounts of omega 3 fatty acids. These healthy fats are believed to decrease inflammation, improve good cholesterol, and reduce your risk for cardiovascular disease.",
+                "icon": "fish_canva",
+                "weekly_goal": 2,
+                "weekly_goal_text": "2 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [
+                  {
+                    "svg": "(3 oz)",
+                    "name": "Anchovies",
+                    "id": 40,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(3 oz)",
+                    "name": "Herring",
+                    "id": 38,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 fillet)",
+                    "name": "Mackerel",
+                    "id": 37,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(3-4 oz)",
+                    "name": "Salmon",
+                    "id": 35,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(3.5 oz)",
+                    "name": "Sardines",
+                    "id": 41,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(3 oz)",
+                    "name": "Trout",
+                    "id": 39,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(2-3 oz)",
+                    "name": "Tuna",
+                    "id": 36,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/omega-3/art-20045614"
+                  }
+                ]
+              },
+              {
+                "name": "Nuts / Nut Butters",
+                "id": 49,
+                "sub_category_id": 35,
+                "daily_goal": null,
+                "daily_goal_text": "a handful of nuts or 2 tablespoons of nut butter",
+                "description_text": "Nuts are a great addition to your diet -- they contain omega-3 fatty acids, which are good for our hearts as well as unsaturated fats, which can lower cholestrol. Studies have shown that those who eat nuts daily tend to live longer, healthier lives. Sprinkle nuts on your salad, or just eat them as a snack. If you are opting for nut butters, then try and choose ones without added oil, sugar, or other ingredients.",
+                "icon": "nuts_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "7 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [
+                  {
+                    "svg": "(2 Tbsp)",
+                    "name": "Almond Butter",
+                    "id": 67,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 oz; ~23 almonds)",
+                    "name": "Almonds",
+                    "id": 62,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 oz; ~18 nuts)",
+                    "name": "Cashews",
+                    "id": 65,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(2 Tbsp)",
+                    "name": "Peanut Butter",
+                    "id": 68,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 oz; ~19 pecan halves)",
+                    "name": "Pecans",
+                    "id": 66,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 oz; ~49 kernels)",
+                    "name": "Pistachios",
+                    "id": 64,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 oz; ~ 7 walnuts)",
+                    "name": "Walnuts",
+                    "id": 63,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/nuts/art-20046635"
+                  }
+                ]
+              },
+              {
+                "name": "Seeds",
+                "id": 50,
+                "sub_category_id": 35,
+                "daily_goal": null,
+                "daily_goal_text": "1/4 cup",
+                "description_text": "Seeds are a great source of iron, magnesium, calcium and other nutrients, and they are also full of fiber. Quinoa is actually a seed, even though it is often classified as a whole grain.  Eat quinoa as a substitute for rice and eat other seeds as a snack or sprinkled on a salad.",
+                "icon": "seeds_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "7 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 7,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [
+                  {
+                    "svg": "(1.5 Tbsp)",
+                    "name": "Chia",
+                    "id": 71,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/4 cup)",
+                    "name": "Pumpkin",
+                    "id": 69,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/4 cup)",
+                    "name": "Sunflower",
+                    "id": 70,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://health.clevelandclinic.org/the-6-best-seeds-to-eat/"
+                  }
+                ]
+              },
+              {
+                "name": "Soy",
+                "id": 96,
+                "sub_category_id": 35,
+                "daily_goal": null,
+                "daily_goal_text": "1 cup tofu or soy milk, 1/2 cup shelled edamame",
+                "description_text": "Soy, which comes from soybeans, is a nutrient dense source of protein, that may have multiple health benefits, such as reducing the risk of cardiovascular disease and some cancers, and improving bone health. Choose organic, whole food sources of soy including tofu, tempeh, soy milk, and edamame, and avoid ultra processed soy products and soy protein powders.",
+                "icon": "soy_canva",
+                "weekly_goal": 5,
+                "weekly_goal_text": "5 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 7,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn more",
+                    "url": "https://www.myweeklywins.com"
+                  },
+                  {
+                    "title": "Tofu Teriyaki Bowl",
+                    "url": "https://www.myweeklywins.com/post/teriyaki-air-fryer-tofu-bowl"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Vegetables",
+            "id": 1,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Allium Vegetables",
+                "id": 38,
+                "sub_category_id": 1,
+                "daily_goal": 1,
+                "daily_goal_text": "~ 1/4 cup",
+                "description_text": "Allium vegetables contain compounds that might help reduce blood pressure and cholesterol and boost our immune systems.  Research is also being done on whether these foods can help prevent cardiovascular and other diseases.  Add them to soups, curries, stir-frys, guacamole, salads, pizza, sandwiches - a little goes a long way in both nutrition and taste!",
+                "icon": "onion_canva",
+                "weekly_goal": 5,
+                "weekly_goal_text": "5 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Chives",
+                    "id": 87,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 clove)",
+                    "name": "Garlic",
+                    "id": 86,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Onion",
+                    "id": 84,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1/2 cup)",
+                    "name": "Scallions",
+                    "id": 88,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Shallots",
+                    "id": 85,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://experiencelife.lifetime.life/article/what-you-need-to-know-about-alliums/?fbclid=IwAR3Ot-TU6mHGF6Cm7VV3pfNU0cmYQFo49HGoXdV8JXria3Po5GSQd1t_e5g"
+                  }
+                ]
+              },
+              {
+                "name": "Avocados",
+                "id": 43,
+                "sub_category_id": 1,
+                "daily_goal": 0,
+                "daily_goal_text": "1/2 an avocado or 1/2 cup guacamole",
+                "description_text": "Avocados are packed with nutrition, fiber, and good fats. Avacado oil is a great oil for cooking in high heat as it has a high smoke point. Enjoy avocados on a salad, a sandwich, as guacamole, or even in a smoothie. A little goes a long way!",
+                "icon": "avocado_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.sleepfoundation.org/how-sleep-works/why-do-we-need-sleep"
+                  },
+                  {
+                    "title": "The Magical Avocado",
+                    "url": "https://www.myweeklywins.com/post/the-magical-avocado"
+                  }
+                ]
+              },
+              {
+                "name": "Garden Vegetables",
+                "id": 39,
+                "sub_category_id": 1,
+                "daily_goal": 1,
+                "daily_goal_text": "1 cup",
+                "description_text": "In addition to leafy greens, try and eat as many colors as you can each day - vegetables add flavor, crunch, water, fiber, and so many nutrients to our bodies!",
+                "icon": "cucumber_canva",
+                "weekly_goal": 5,
+                "weekly_goal_text": "5 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Carrot",
+                    "id": 89,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Cucumber",
+                    "id": 90,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Green Beans",
+                    "id": 93,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Peas",
+                    "id": 94,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Peppers",
+                    "id": 92,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Squash",
+                    "id": 96,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 medium)",
+                    "name": "Zucchini",
+                    "id": 95,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/"
+                  },
+                  {
+                    "title": "Roasted Vegetable Salad",
+                    "url": "https://www.myweeklywins.com/post/the-jampacked-with-veggies-salad"
+                  }
+                ]
+              },
+              {
+                "name": "Leafy Greens",
+                "id": 1,
+                "sub_category_id": 1,
+                "daily_goal": 1,
+                "daily_goal_text": "2 cups raw or 1 cup cooked",
+                "description_text": "Low in calories, but high in fiber and packed with nutrition, greens are a must-eat. Throw them in salads or smoothies or wilt a whole box into what looks like a tiny amount! A serving size is only 2 cups.",
+                "icon": "powerhouse_canva",
+                "weekly_goal": 5,
+                "weekly_goal_text": "5 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website/post/super-smoothie",
+                "item_examples": [
+                  {
+                    "svg": "(2 cups) raw",
+                    "name": "Chard",
+                    "id": 2,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(2 cups) raw",
+                    "name": "Collards",
+                    "id": 3,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(2 cups) raw",
+                    "name": "Spinach",
+                    "id": 1,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Smoothie Recipe",
+                    "url": "https://www.myweeklywins.com/post/super-smoothie"
+                  }
+                ]
+              },
+              {
+                "name": "Mushrooms",
+                "id": 44,
+                "sub_category_id": 1,
+                "daily_goal": 0,
+                "daily_goal_text": "1 cup chopped (raw)",
+                "description_text": "Nutritionists seem to love recommending mushrooms! Low in fat and calories and full of vitamins, minerals, and antioxidants, they are also tasty and a great source of fiber. Some studies have suggested they fight inflammation and have anti-aging properties. They work great as a meat replacement or just sauteed with olive oil and salt and eaten on their own. They aren't technically a vegetable or a plant, but a perfect healthy addition to a plant based diets.",
+                "icon": "mushrooms_canva",
+                "weekly_goal": 2,
+                "weekly_goal_text": "2 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.medicalnewstoday.com/articles/278858#benefits"
+                  }
+                ]
+              },
+              {
+                "name": "Powerhouse Vegetables",
+                "id": 34,
+                "sub_category_id": 1,
+                "daily_goal": 1,
+                "daily_goal_text": "1 cup",
+                "description_text": "We refer to these as powerhouse vegetables, but they are generally referred to as cruciferous vegetables. We think powerhouse is an appropriate adjective as these vegetables are filled with fiber and nutrition and have been shown to contain elements that prevent and fight disease.",
+                "icon": "broccoli_canva",
+                "weekly_goal": 5,
+                "weekly_goal_text": "5 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/cruciferous-vegetables-fact-sheet",
+                "item_examples": [
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Bok Choy",
+                    "id": 83,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Broccoli",
+                    "id": 34,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Brussel Sprouts",
+                    "id": 79,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Cabbage",
+                    "id": 80,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Cauliflower",
+                    "id": 81,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Kale",
+                    "id": 82,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Easy Broccoli/Garlic Stir-fry",
+                    "url": "https://www.myweeklywins.com/post/easy-broccoli-stir-fry"
+                  },
+                  {
+                    "title": "Learn More",
+                    "url": "https://health.clevelandclinic.org/crunchy-and-cruciferous-youll-love-this-special-family-of-veggies/"
+                  }
+                ]
+              },
+              {
+                "name": "Sweet Potatoes",
+                "id": 42,
+                "sub_category_id": 1,
+                "daily_goal": 0,
+                "daily_goal_text": "1 medium potato or 1 cup mashed",
+                "description_text": "Sweet potatoes are rich in Vitamins A, B6 and C, and full of fiber. Although regular white potatoes also contain nutrients, sweet potatoes pack more of a nutritional punch.  Try them baked or roasted but keep track of portion sizes as they contain natural sugars.",
+                "icon": "sweet_potato_canva",
+                "weekly_goal": 2,
+                "weekly_goal_text": "2 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://www.healthline.com/nutrition/sweet-potato-benefits#TOC_TITLE_HDR_3",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.healthline.com/nutrition/sweet-potato-benefits#TOC_TITLE_HDR_3"
+                  }
+                ]
+              },
+              {
+                "name": "Tomatoes",
+                "id": 41,
+                "sub_category_id": 1,
+                "daily_goal": 1,
+                "daily_goal_text": "1 cup chopped or 1/2 cup of sauce",
+                "description_text": "Tomatoes contain an important antioxidant called lycopene, which may benefit our cardiovascular systems and reduce the risk of stroke. Cooking tomatoes or eating them with olive oil helps our bodies absorb the nutrients better. Tomato sauce (without added sugar) is a great way to enjoy tomatoes - or chop, toss with garlic and olive oil and make bruschetta!",
+                "icon": "tomato_canva",
+                "weekly_goal": 4,
+                "weekly_goal_text": "4 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://extension.psu.edu/health-benefits-of-tomatoes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Whole Grains",
+            "id": 38,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Whole Grains",
+                "id": 57,
+                "sub_category_id": 38,
+                "daily_goal": null,
+                "daily_goal_text": "1/2 cup or 1 slice of bread",
+                "description_text": "Whole grains are an important part of a balanced diet, but the key word is 'whole.' Look for grains that are 100% whole -  once grains are refined and processed, they lose most of their nutritional value. Also, once the fiber is stripped away, the food converts to sugar very quickly in your body. Whole grains are rich in fiber, vitamins, and many trace minerals.  If you are eating rice or noodles, consider brown rice or noodles made from whole wheat or other whole grains.",
+                "icon": "oatmeal_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "7 servings each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 4,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "svg",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [
+                  {
+                    "svg": "(1 cup cooked)",
+                    "name": "Noodles",
+                    "id": 78,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup cooked)",
+                    "name": "Oatmeal",
+                    "id": 74,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup cooked)",
+                    "name": "Quinoa",
+                    "id": 77,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup cooked)",
+                    "name": "Rice",
+                    "id": 75,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 slice)",
+                    "name": "Whole Wheat Bread",
+                    "id": 76,
+                    "pinned": false
+                  }
+                ],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/whole-grains/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Movement",
+        "red": 0,
+        "blue": 0,
+        "green": 255,
+        "sub_categories": [
+          {
+            "name": "Bodyweight Exercises",
+            "id": 40,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Bird Dogs",
+                "id": 109,
+                "sub_category_id": 40,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "bird_dog_canva",
+                "weekly_goal": 5,
+                "weekly_goal_text": "5 times per week",
+                "increment": "5",
+                "min_factor": 5,
+                "max_factor": 1000,
+                "recommended_factor": 10,
+                "optionsType": "DF",
+                "inc_string": "reps",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How to do Bird Dogs",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/49/glute-bridge/"
+                  }
+                ]
+              },
+              {
+                "name": "Glute Bridge",
+                "id": 106,
+                "sub_category_id": 40,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "glute_bridge_canva",
+                "weekly_goal": 5,
+                "weekly_goal_text": "5 times per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1000,
+                "recommended_factor": 10,
+                "optionsType": "DF",
+                "inc_string": "reps",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How to do Glute Bridges",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/49/glute-bridge/"
+                  }
+                ]
+              },
+              {
+                "name": "Lunges",
+                "id": 65,
+                "sub_category_id": 40,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "lunge_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1000,
+                "recommended_factor": 10,
+                "optionsType": "DF",
+                "inc_string": "reps",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How to do a proper lunge",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/94/forward-lunge/"
+                  }
+                ]
+              },
+              {
+                "name": "Planks",
+                "id": 66,
+                "sub_category_id": 40,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "plank_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "10",
+                "min_factor": 1,
+                "max_factor": 18,
+                "recommended_factor": 3,
+                "optionsType": "DF",
+                "inc_string": "secs",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How to do a Plank",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/32/front-plank/"
+                  }
+                ]
+              },
+              {
+                "name": "Push Ups",
+                "id": 108,
+                "sub_category_id": 40,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "push_up_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1000,
+                "recommended_factor": 10,
+                "optionsType": "DF",
+                "inc_string": "reps",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How to do a Push Up",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/41/push-up/"
+                  }
+                ]
+              },
+              {
+                "name": "Side Planks",
+                "id": 110,
+                "sub_category_id": 40,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "side_plank_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "10",
+                "min_factor": 1,
+                "max_factor": 18,
+                "recommended_factor": 3,
+                "optionsType": "DF",
+                "inc_string": "secs",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How to do Side Planks",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/101/side-plank-with-straight-leg/"
+                  }
+                ]
+              },
+              {
+                "name": "Squats",
+                "id": 64,
+                "sub_category_id": 40,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "squat_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1000,
+                "recommended_factor": 10,
+                "optionsType": "DF",
+                "inc_string": "reps",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How to do a proper squat",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/135/bodyweight-squat/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cardio",
+            "id": 39,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Cycling",
+                "id": 61,
+                "sub_category_id": 39,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Whether you are cycling outdoors or part of an indoor cycling class, cycling is a great way to get your heart rate up and get stronger.  If you are on a real bike, please remember to wear your helmet!",
+                "icon": "biker_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "10",
+                "min_factor": 1,
+                "max_factor": 12,
+                "recommended_factor": 3,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Info on Bike Set Up",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/blog/3414/indoor-cycling-the-breakdown-on-bike-set-up/"
+                  },
+                  {
+                    "title": "Benefits of Cycling",
+                    "url": "https://www.healthline.com/health/fitness-exercise/cycling-benefits#benefits"
+                  }
+                ]
+              },
+              {
+                "name": "Other Cardio",
+                "id": 63,
+                "sub_category_id": 39,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "There are so many ways to get your heart rate up while moving - rowing machines, elliptical machines, stair climbers, or just jumping rope, dancing or doing jumping jacks!",
+                "icon": "runner_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "10",
+                "min_factor": 1,
+                "max_factor": 12,
+                "recommended_factor": 3,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/blog/5868/7-often-overlooked-benefits-of-cardiovascular-training/"
+                  }
+                ]
+              },
+              {
+                "name": "Run",
+                "id": 60,
+                "sub_category_id": 39,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Running might be one of the quickest, most efficient ways to get your heart rate up and get some great exercise!  You don't have to run races, but training for a 5K or other community race can be motivating and help build confidence in your abilities.",
+                "icon": "runner_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "10",
+                "min_factor": 1,
+                "max_factor": 12,
+                "recommended_factor": 3,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/blog/6617/ready-to-run/"
+                  }
+                ]
+              },
+              {
+                "name": "Swim",
+                "id": 59,
+                "sub_category_id": 39,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Swimming is a great form of cardiovascular exercise that uses so many muscles in the body but takes the load off of the joints.",
+                "icon": "swimmer_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "10",
+                "min_factor": 1,
+                "max_factor": 12,
+                "recommended_factor": 3,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": []
+              },
+              {
+                "name": "Walk",
+                "id": 58,
+                "sub_category_id": 39,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Walking is low impact and can be done almost anywhere - on a treadmill or outside.  Walking can help you lose fat, maintain a healthy weight and strengthen your muscles and heart.  Walk faster or up-hill to raise your heart rate and challenge yourself.",
+                "icon": "walker_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "10",
+                "min_factor": 1,
+                "max_factor": 12,
+                "recommended_factor": 3,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.acefitness.org/education-and-resources/professional/expert-articles/6930/the-power-of-walking/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Other Exercises",
+            "id": 47,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Weight Lifting",
+                "id": 67,
+                "sub_category_id": 47,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "Weight_lifting_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "3 times per week",
+                "increment": "10",
+                "min_factor": 1,
+                "max_factor": 12,
+                "recommended_factor": 3,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/blog/6695/strength-training-101/"
+                  }
+                ]
+              },
+              {
+                "name": "Yoga",
+                "id": 95,
+                "sub_category_id": 47,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Yoga is a wonderful way to move your body in a gentle way while building strength, balance and flexibility.  You can join a class or do it on your own.  So many free, wonderful videos on YouTube. ",
+                "icon": "yoga_canva",
+                "weekly_goal": 3,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-benefits-of-yoga",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Yoga with Adrien",
+                    "url": "https://yogawithadriene.com/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Habit",
+        "red": 0,
+        "blue": 255,
+        "green": 0,
+        "sub_categories": [
+          {
+            "name": "Eating Habits and Behaviors",
+            "id": 41,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Chop and prep veggies for the week",
+                "id": 97,
+                "sub_category_id": 41,
+                "daily_goal": null,
+                "daily_goal_text": "Set your week up for success by taking 30-45 minute a couple times a week to chop up vegetables and prep some meals.  This will make eating vegetables so much easier as they will be ready to eat or cook when you need them.",
+                "description_text": "",
+                "icon": "chop_veggies_canva",
+                "weekly_goal": 2,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 3,
+                "recommended_factor": 2,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": []
+              },
+              {
+                "name": "Drink enough water",
+                "id": 73,
+                "sub_category_id": 41,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "water_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 20,
+                "recommended_factor": 6,
+                "optionsType": "DF",
+                "inc_string": "cup(s)",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How much water should we drink?",
+                    "url": "https://www.health.harvard.edu/staying-healthy/how-much-water-should-you-drink"
+                  }
+                ]
+              },
+              {
+                "name": "Go vegetarian for a day",
+                "id": 71,
+                "sub_category_id": 41,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Reducing meat in our diets has been shown to have many protective health benefits including a decreased risk of heart disease, stroke, and diabetes.  Replacing meat with plant based sources of proteins has tons of benefits as well.  ",
+                "icon": "go_vegetarian_for_a_day_canva",
+                "weekly_goal": 1,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": "",
+                "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/how-does-plant-forward-eating-benefit-your-health",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/how-does-plant-forward-eating-benefit-your-health"
+                  }
+                ]
+              },
+              {
+                "name": "Practice the 80% full rule",
+                "id": 98,
+                "sub_category_id": 41,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "In Japanese, Hara Hachi Bu means to stop eating when you are 80% full.  This practice is often followed in the Blue Zones regions and is a great way to prevent overeating.",
+                "icon": "80percent_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Read More",
+                    "url": "https://health.clevelandclinic.org/dont-eat-until-youre-full-instead-mind-your-hara-hachi-bu-point/"
+                  },
+                  {
+                    "title": "Hara Hachi Bu in the Blue Zones",
+                    "url": "https://www.bluezones.com/2017/12/hara-hachi-bu-enjoy-food-and-lose-weight-with-this-simple-phrase/"
+                  }
+                ]
+              },
+              {
+                "name": "Rest your gut between meals",
+                "id": 69,
+                "sub_category_id": 41,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Allow your digestive system to rest by avoiding any snacks between meals.  Each time you eat, you activate your digestive system which results in a release of insulin and a rise in blood sugar.  By skipping snacks, you allow your body to fully digest your last meal and return to a hunger state.   ",
+                "icon": "give_gut_a_rest_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Give your gut a rest",
+                    "url": "https://www.myweeklywins.com/post/give-your-gut-a-rest"
+                  }
+                ]
+              },
+              {
+                "name": "Set an eating cut-off time",
+                "id": 68,
+                "sub_category_id": 41,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "If you refrain from eating anything after dinner, your body will have time to completely digest your dinner, you may sleep better, and your body will have time to enter a fasting state.  Often we choose unhealthy snacks after dinner that don't provide any nutritional benefits anyway.  Try closing the kitchen after dinner and sip on some herbal tea or water if you crave something.",
+                "icon": "clock_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "T",
+                "inc_string": null,
+                "url": "https://www.prevention.com/food-nutrition/g20442593/stop-eating-at-night/",
+                "item_examples": [],
+                "links": []
+              },
+              {
+                "name": "Take a sugar break",
+                "id": 72,
+                "sub_category_id": 41,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "When you reduce sugar in your diet, you reduce overall inflammation in your body.  Reducing sugar is associated with improved mood, increased energy, better skin, weight loss and lots of other postive health outcomes.  Sugar in fruits are ok because they are naturally packaged with fiber and nutrients.  Added sugars, on the other hand, should be eaten in moderation.  Try and skip sugar for a few days and see how you feel.",
+                "icon": "have_a_sugar_free_day_canva",
+                "weekly_goal": 1,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://www.cdc.gov/nutrition/data-statistics/added-sugars.html",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.cdc.gov/nutrition/data-statistics/added-sugars.html"
+                  }
+                ]
+              },
+              {
+                "name": "Try intermittent fasting",
+                "id": 70,
+                "sub_category_id": 41,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "fasting_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 8,
+                "max_factor": 24,
+                "recommended_factor": 12,
+                "optionsType": "DF",
+                "inc_string": "hrs",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Emotional Health",
+            "id": 44,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Give yourself credit",
+                "id": 80,
+                "sub_category_id": 44,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Turn off your inner critic and give yourself credit for all your accomplishments. Focus on your strenghts and your progress.  Most importantly, be kind to yourself.",
+                "icon": "list_positive_things_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": "",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Give yourself credit",
+                    "url": "https://www.psychologytoday.com/us/blog/between-cultures/201802/be-kind-yourself"
+                  }
+                ]
+              },
+              {
+                "name": "Limit social media and doomscrolling",
+                "id": 105,
+                "sub_category_id": 44,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Think about how much time you spend scrolling through your newsfeed.  Are you reading a lot of negative or scary news stories?  Do you find yourself comparing yourself to others?  Many of us are in the habit of scrolling and don't even realize that it's bringing us down. If this is you and you don't want to give up social media, consider limiting to one or two short windows a day to look at these sites and then sign off.",
+                "icon": "no_phone_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 24,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Avoid doomscrolling",
+                    "url": "https://health.clevelandclinic.org/everything-you-need-to-know-about-doomscrolling-and-how-to-avoid-it/"
+                  }
+                ]
+              },
+              {
+                "name": "Practice Breathing Exercises",
+                "id": 78,
+                "sub_category_id": 44,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Engaging in regular breathing exercises can result in profound positive health impacts.  Breathing deeply and slowly can calm the nervous system and help us feel more alert and energetic. There are many ways to practice breathing exercises.  Choose one and try it for just 5 minutes, while focusing on slowing down, especially on the exhale. Once you feel the benefits, you might find yourself wanting to do it more often!",
+                "icon": "breathe_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "5",
+                "min_factor": 1,
+                "max_factor": 12,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Breathing Exercises",
+                    "url": "https://www.healthline.com/health/breathing-exercise#pursed-lip-breathing"
+                  }
+                ]
+              },
+              {
+                "name": "Practice Meditation",
+                "id": 112,
+                "sub_category_id": 44,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": " Meditation is a way to practice mindfulness.  It can be done while sitting, lying down or moving (e.g., walking meditation). Meditation has been used for years, across many cultures, to increase relaxation, reduce stress and promote happiness.",
+                "icon": "meditation_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 30,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "What is meditation?",
+                    "url": "https://www.nccih.nih.gov/health/meditation-in-depth"
+                  }
+                ]
+              },
+              {
+                "name": "Spend time outdoors",
+                "id": 79,
+                "sub_category_id": 44,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Spending some time outdoors each day can do wonders for our moods and decrease our stress levels.  Go outside and focus on your senses-  feel the breeze, listen to the birds and the sounds around you.",
+                "icon": "nature_walk_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": "",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.theactivetimes.com/healthy-living/walks-outside-change-life-gallery"
+                  },
+                  {
+                    "title": "Spend time outdoors",
+                    "url": "https://www.mentalfloss.com/article/70548/11-scientific-benefits-being-outdoors"
+                  }
+                ]
+              },
+              {
+                "name": "Take a break from your phone",
+                "id": 75,
+                "sub_category_id": 44,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Did you know the average adult/teen spends more time looking at a screen than sleeping? Taking a break from screens and the constant stream of information and communication can be beneficial to our mental and physical health.  Try putting down the phone and being present with yourself and the people around you. ",
+                "icon": "no_phone_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 24,
+                "recommended_factor": 1,
+                "optionsType": "DF",
+                "inc_string": "hr(s)",
+                "url": "https://www.uwhealth.org/news/taking-a-technology-break-can-help-your-health",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Reasons to take a break from screens",
+                    "url": "https://greatergood.berkeley.edu/article/item/five_reasons_to_take_a_break_from_screens"
+                  }
+                ]
+              },
+              {
+                "name": "Take a moment to feel gratitude",
+                "id": 90,
+                "sub_category_id": 44,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Research has shown that taking time to think about the things for which you are grateful can have positive effects on our mental health.  We often get caught up in our routines and forget to recognize the good things in our lives and around us.  Take a moment to note the things for which you are grateful-  observe how that makes you feel.  Allow yourself a few moments to really feel it in your heart.",
+                "icon": "gratitude_journal_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": "",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "How gratitude helps you feel better",
+                    "url": "https://www.health.harvard.edu/healthbeat/giving-thanks-can-make-you-happier"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Self Care",
+            "id": 45,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Do something you enjoy",
+                "id": 93,
+                "sub_category_id": 45,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Take some time to do something you enjoy-  read, listen to music, dance, sing, or draw.  Whatever it is, be present in the moment and experience it fully!",
+                "icon": "read_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "5",
+                "min_factor": 1,
+                "max_factor": 12,
+                "recommended_factor": 6,
+                "optionsType": "DF",
+                "inc_string": "mins",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": []
+              },
+              {
+                "name": "Floss your teeth",
+                "id": 82,
+                "sub_category_id": 45,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "We all know we need to floss, but many of us often skip this 2 minute activity, even though it can really benefit our health.  Not only does flossing prevent cavities and reduce plaque, but it may also help with heart health.",
+                "icon": "floss_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": "",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Benefits of Flossing",
+                    "url": "https://newsinhealth.nih.gov/2016/11/dont-toss-floss"
+                  }
+                ]
+              },
+              {
+                "name": "Plan your exercise for the week",
+                "id": 100,
+                "sub_category_id": 45,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Exercise should be part of your routine.  When we are busy or stressed, sometimes exercise is the first thing we skip, even though it can really help us manage stress and support our overall health.  Making an exercise plan for the week is an effective way to make sure you fit it in. Remember, a little exercise goes a long way.",
+                "icon": "list_positive_things_canva",
+                "weekly_goal": 1,
+                "weekly_goal_text": "day per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": []
+              },
+              {
+                "name": "Plan your food for the week",
+                "id": 101,
+                "sub_category_id": 45,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Taking 20-30 minute per week to plan out your meals and make your shopping list will save you so much time later in the week.  A little bit of planning goes a long way, so choose the foods you want to eat, make your menu and grocery list, and plan a time to chop and prep.  You will thank yourself later!",
+                "icon": "apple_canva",
+                "weekly_goal": 1,
+                "weekly_goal_text": "",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": []
+              },
+              {
+                "name": "Save money",
+                "id": 87,
+                "sub_category_id": 45,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Did you know saving even a little money each week can help you feel better about yourself?  If you don't have a savings plan, commit to saving a set amount each week.  The amount doesn't matter as much as the fact that you will be taking some control of your finances.",
+                "icon": "save_money_canva",
+                "weekly_goal": 1,
+                "weekly_goal_text": "each week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1000,
+                "recommended_factor": 10,
+                "optionsType": "DF",
+                "inc_string": "dollar(s)",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Tips for Saving Money",
+                    "url": "https://www.nerdwallet.com/article/finance/how-to-save-money"
+                  }
+                ]
+              },
+              {
+                "name": "Stretch your body",
+                "id": 83,
+                "sub_category_id": 45,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "",
+                "icon": "stretch_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 60,
+                "recommended_factor": 7,
+                "optionsType": "DF",
+                "inc_string": "min(s)",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Learn More",
+                    "url": "https://www.acefitness.org/education-and-resources/lifestyle/blog/6499/flexibility-exercises-for-beginners/"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Sleep",
+            "id": 43,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Get the sleep you need",
+                "id": 74,
+                "sub_category_id": 43,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Sleep is essential to health, and getting enough sleep is important for proper immune function, brain function and general physical health.  While everybody is different, the average adult needs 7-8 hours of sleep.  Lack of sleep can lead to depression, increased appetite, weight gain and a host of other health problems.",
+                "icon": "sleep_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 6,
+                "max_factor": 10,
+                "recommended_factor": 8,
+                "optionsType": "DF",
+                "inc_string": "hrs",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Why we need sleep",
+                    "url": "https://www.sleepfoundation.org/how-sleep-works/why-do-we-need-sleep"
+                  }
+                ]
+              },
+              {
+                "name": "Set a fixed bed time",
+                "id": 77,
+                "sub_category_id": 43,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Establishing and following a regular sleep routine can help you sleep better and also help prevent some health problems.",
+                "icon": "sleep_time_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "0",
+                "min_factor": 0,
+                "max_factor": 23,
+                "recommended_factor": 22,
+                "optionsType": "T",
+                "inc_string": "",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": []
+              },
+              {
+                "name": "Set a fixed wake up time",
+                "id": 76,
+                "sub_category_id": 43,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Establishing and following a regular sleep routine can help you sleep better and also help prevent some health problems.  Some studies suggest that waking up early is associated with better physical and mental health outcomes.  If you'd like to become a morning person, give this goal a try.  Start by waking up 15 minutes earlier than usual and then gradually wake up earlier, as your body adjusts.  The key is consistency, but make sure you also go to sleep earlier so that you get enough sleep!",
+                "icon": "clock_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 0,
+                "max_factor": 23,
+                "recommended_factor": 7,
+                "optionsType": "T",
+                "inc_string": "",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Why a sleep routine is important",
+                    "url": "https://www.healthline.com/health-news/its-not-just-for-kids-even-adults-appear-to-benefit-from-a-regular-bedtime#Tips-and-tricks-for-better-sleep"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Social Connection ",
+            "id": 46,
+            "pin": "green_pushpin",
+            "items": [
+              {
+                "name": "Be kind to someone",
+                "id": 102,
+                "sub_category_id": 46,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Tell someone you appreciate them, give an authentic compliment, or perform a random act of kindness.  Take a moment to let yourself experience how your body and heart feel.",
+                "icon": "be_kind_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Being kind is good for you",
+                    "url": "https://www.bbc.com/future/article/20201215-why-being-kind-to-others-is-good-for-your-health"
+                  }
+                ]
+              },
+              {
+                "name": "Connect with friends and/or family",
+                "id": 104,
+                "sub_category_id": 46,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "So much research supports that social support and connect is good for our mental and physical health.  If you can't see your loved ones, call and talk to a family member or friend.  If you are able to visit with a neighbor or friend, make time to do that on a regular basis.  Maybe you can take a walk together or just sit and talk.  ",
+                "icon": "connect_family_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": null,
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Why Social Connection Matters",
+                    "url": "https://greatergood.berkeley.edu/topic/social_connection/definition#why-practice-social-connection"
+                  },
+                  {
+                    "title": "Read More on Social Connection",
+                    "url": "http://ccare.stanford.edu/uncategorized/connectedness-health-the-science-of-social-connection-infographic/"
+                  }
+                ]
+              },
+              {
+                "name": "Hug a loved one (pets included!)",
+                "id": 81,
+                "sub_category_id": 46,
+                "daily_goal": null,
+                "daily_goal_text": "",
+                "description_text": "Human contact, or contact with pets, can lower stress and blood pressure and even boost our immune systems.  If you can't hug others, a self hug can also be therapeutic!    ",
+                "icon": "hug_canva",
+                "weekly_goal": 7,
+                "weekly_goal_text": "day(s) per week",
+                "increment": "1",
+                "min_factor": 1,
+                "max_factor": 1,
+                "recommended_factor": 1,
+                "optionsType": "F",
+                "inc_string": "",
+                "url": "https://myweeklywins.wixsite.com/website",
+                "item_examples": [],
+                "links": [
+                  {
+                    "title": "Why hugs are good",
+                    "url": "https://greatergood.berkeley.edu/article/item/four_ways_hugs_are_good_for_your_health"
+                  },
+                  {
+                    "title": "How to hug yourself",
+                    "url": "https://www.healthline.com/health/hugging-self#benefits"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
