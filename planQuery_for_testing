@@ -114,6 +114,13 @@
             "recommended_factor": 1
           },
           {
+            "id": 50,
+            "plan_id": 3,
+            "Item_id": 54,
+            "weekly_goal": 3,
+            "recommended_factor": 1
+          },
+          {
             "id": 51,
             "plan_id": 3,
             "Item_id": 57,
@@ -550,6 +557,13 @@
             "id": 17,
             "plan_id": 1,
             "Item_id": 51,
+            "weekly_goal": 3,
+            "recommended_factor": 1
+          },
+          {
+            "id": 18,
+            "plan_id": 1,
+            "Item_id": 54,
             "weekly_goal": 3,
             "recommended_factor": 1
           },
