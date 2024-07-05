@@ -65,6 +65,18 @@
                 "item_examples": [
                   {
                     "svg": "(1 cup)",
+                    "name": "Blueberries",
+                    "id": 51,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
+                    "name": "Raspberries",
+                    "id": 53,
+                    "pinned": false
+                  },
+                  {
+                    "svg": "(1 cup)",
                     "name": "Strawberries",
                     "id": 52,
                     "pinned": false
